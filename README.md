@@ -34,12 +34,6 @@ This was a group university assignment. The report's contribution section lists 
 ## Limitations and notes
 This repository currently documents the analysis described in the group report. The original dataset and complete executable SAS project files have not yet been added. Some interpretations and numerical statements in the source report may need checking against the original SAS output before being reused; this README therefore avoids presenting every reported odds ratio as a verified conclusion.
 
-## Planned repository contents
-- `README.md` â project overview and methods
-- `code/` â reviewed SAS scripts, once checked and added
-- `report/` â a public-safe, permission-cleared report or selected extracts, if appropriate
-- `figures/` â charts recreated from the analysis, if available
-
 Results: Student Pass/Fail Distribution
 
 ![Student Pass/Fail Distribution](student_pass_fail_distribution.png)
