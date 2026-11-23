@@ -39,3 +39,32 @@ This repository currently documents the analysis described in the group report. 
 - `code/` â reviewed SAS scripts, once checked and added
 - `report/` â a public-safe, permission-cleared report or selected extracts, if appropriate
 - `figures/` â charts recreated from the analysis, if available
+
+Results: Student Pass/Fail Distribution
+
+![Student Pass/Fail Distribution](student_pass_fail_distribution.png)
+
+The dataset contained 649 students. The analysis identified the following outcomes:
+
+* Passed: 452 students (69.6%)
+* Failed: 197 students (30.4%)
+
+Key Findings
+
+* Approximately 7 out of every 10 students passed.
+* Approximately 3 out of every 10 students failed.
+* The analysis explored demographic, family, educational and lifestyle-related factors associated with student performance.
+* Logistic regression was used to investigate factors associated with passing or failing.
+
+Tools and Statistical Methods
+
+* SAS: Statistical analysis and data processing.
+* Descriptive statistics: Summarising student characteristics and outcomes.
+* Frequency analysis: Examining distributions of categorical variables.
+* Chi-square tests: Exploring associations between categorical variables.
+* Logistic regression: Modelling pass/fail outcomes.
+* Model reduction: Comparing a reduced model with the full model.
+
+Project Notes
+
+This project was completed as part of a collaborative academic assignment. The results and code are presented for portfolio and learning purposes.
